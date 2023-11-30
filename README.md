@@ -21,5 +21,5 @@
  ```
  ## License
 
-This project is licensed [open](LICENSE).
+This project is licensed ** open ** .
 
